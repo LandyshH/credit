@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44439",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\user\\Desktop\\credit\\credit\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
